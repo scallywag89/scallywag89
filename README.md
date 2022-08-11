@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scallywag89" alt="scallywag89" /></a> </p>
 
-- 🔭 I’m currently working on [sets](sets.melbourne)
+- 🛠 I’m currently working on [sets](sets.melbourne)
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript and React**
+- 📚 I’m currently learning **Ruby on Rails, JavaScript and React**
 
-- 👯 I’m looking to collaborate on **anything that will help me learn and hone my code!**
+- 🙌 I’m looking to collaborate on **anything that will help me learn and hone my code!**
 
 - 🤝 I’m looking for help with **any cool resources that could help a junior like me**
 
@@ -17,9 +17,7 @@
 
 - 📫 How to reach me **bamsubscriptions@gmail.com**
 
-- 📄 Add me on linkedin [https://www.linkedin.com/in/bennett-mackenzie/](https://www.linkedin.com/in/bennett-mackenzie/)
-
-- ⚡ Fun fact **Je parle français, e amo fare le pizze e imparare l'italiano**
+- ⁉️ Fun fact **Je parle français 🇫🇷, e amo fare le pizze 🍕 e imparare l'italiano 🇮🇹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
