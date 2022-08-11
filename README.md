@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scallywag89" alt="scallywag89" /></a> </p>
 
-- 🛠 I’m currently working on [sets](sets.melbourne)
+- 🛠 I’m currently working on [sets](www.sets.melbourne)
 
 - 📚 I’m currently learning **Ruby on Rails, JavaScript and React**
 
