@@ -21,7 +21,7 @@
 - [ ] Land my first dev job 💻
 
 
-<h3 text-decoration="underline"><b>Languages & Skills:</b></h3>
+<h3><b>Languages & Skills:</b></h3>
 <p>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
@@ -32,11 +32,10 @@
 </p>
 <details>
 <summary><h3>Stats:</h3></summary>
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scallywag89&show_icons=true&locale=en" alt="scallywag89" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scallywag89&show_icons=true&locale=en&layout=compact" alt="scallywag89" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scallywag89&show_icons=true&locale=en" alt="scallywag89" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scallywag89&" alt="scallywag89" /></p>
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scallywag89&" alt="scallywag89" />
+</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scallywag89&show_icons=true&locale=en&layout=compact" alt="scallywag89" /></p>
 </details>
