@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bennett</h1>
 <h3 align="center">A passionate junior developer from Melbourne! 🦘</h3>
 
-- 🛠 I’m currently working on [sets](https://github.com/scallywag89/sets)
+- 🛠 I’m currently working through 100 Days of Swift
 
-- 📚 I’m currently learning **Ruby on Rails, JavaScript and React**
+- 📚 I’m currently learning **Swift, Ruby on Rails, JavaScript and React**
 
 - 🙌 I’m looking to collaborate on **anything that will help me learn and hone my code!**
 
