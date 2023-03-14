@@ -4,7 +4,7 @@
 
 - 📚 I’m currently working with **Ruby on Rails, SQL, JavaScript, HTML, CSS**
 
-- 🙌 I’m looking to collaborate **companies who are looking for excellent graduates**
+- 🙌 I’m looking to collaborate with **companies who are looking for excellent graduates**
 
 - 🤝 I’m looking for help with **any cool resources**
 
