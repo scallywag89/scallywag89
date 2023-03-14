@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bennett</h1>
 
-- 🛠 I’m currently working as the Operations & Career Manager @ Le Wagon Australia
+- 🛠 I’m working as the Operations & Career Manager @ Le Wagon Australia
 
 - 📚 I’m currently working with **Ruby on Rails, SQL, JavaScript, HTML, CSS**
 
