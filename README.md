@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Bennett</h1>
-<h3 align="center">A passionate junior developer from Melbourne! 🦘</h3>
 
-- 🛠 I’m currently working through 100 Days of Swift
+- 🛠 I’m currently working as the Operations & Career Manager @ Le Wagon Australia
 
-- 📚 I’m currently learning **Swift, Ruby on Rails, JavaScript and React**
+- 📚 I’m currently working with **Ruby on Rails, SQL, JavaScript, HTML, CSS**
 
-- 🙌 I’m looking to collaborate on **anything that will help me learn and hone my code!**
+- 🙌 I’m looking to collaborate **companies who are looking for excellent graduates**
 
-- 🤝 I’m looking for help with **any cool resources that could help a junior like me**
+- 🤝 I’m looking for help with **any cool resources**
 
 - 💬 Ask me about **wine, food and the best tennis courts in the northern suburbs**
 
-- 📫 How to reach me **bamsubscriptions@gmail.com**
+- 📫 How to reach me **bennett.mackenzie@lewagon.org**
 
 - ⁉️ Fun fact **Je parle français 🇫🇷, e amo fare le pizze 🍕 e imparare l'italiano 🇮🇹**
 
 <b>To Do List:</b>
 - [x] Complete bootcamp 🍾
 - [x] Have heaps of fun while doing it! 🎉
-- [ ] Land my first dev job 💻
+- [x] Land my first tech job 💻
 
 
 <h3><b>Languages & Skills:</b></h3>
