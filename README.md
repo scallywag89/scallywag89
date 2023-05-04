@@ -2,7 +2,7 @@
 
 - 🛠 I’m working as the Operations & Career Manager @ Le Wagon Australia
 
-- 📚 I’m currently working with **Ruby on Rails, SQL, JavaScript, HTML, CSS**
+- 📚 I’m currently working with **Ruby on Rails, JavaScript, HTML, CSS and dabbling in React**
 
 - 🙌 I’m looking to collaborate with **companies who are looking for excellent graduates**
 
